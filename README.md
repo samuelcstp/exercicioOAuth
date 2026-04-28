@@ -30,10 +30,10 @@ GOOGLE_CLIENT_SECRET=GOCSPX-exemplo_secret_google
 
 MS_CLIENT_ID=00000000-0000-0000-0000-000000000000
 MS_CLIENT_SECRET=exemplo~valor~da~chave~microsoft
+```
 
 > **Importante:** As Redirect URIs no console do Google/Azure devem ser:
 > `http://localhost:3000/auth/google/callback` e `http://localhost:3000/auth/microsoft/callback`
-```
 
 ### Execução
 
