@@ -1,3 +1,4 @@
 node_modules/
-*.json
+users.json
+avisos.json
 .env
